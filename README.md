@@ -7,6 +7,8 @@ climbing up into the sky and roaring down again.
 My first experience with GameMaker, it was pleasingly easy to use despite misgivings about the UI. Art
 was done in paint.net.
 
+[![Fly A Kite in action](http://fat.gfycat.com/OddballFrigidEmperorshrimp.gif)](http://gfycat.com/OddballFrigidEmperorshrimp)
+
 # Credits
 
 Thanks to [Stilgar](http://soundbible.com/1247-Wind.html) for the wind sound effect.`
